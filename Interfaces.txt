@@ -1,0 +1,10 @@
+https://www.google.com/?hl=pt_BR
+
+Interface Positiva:Google
+
+>Layout simples e bem organizado.
+>Sem muitos elementos na tela evitando distrações.
+>Com barra de pesquisa simples.
+>Carregamento super rápido.
+
+Interface Negativa:
